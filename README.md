@@ -1,131 +1,16 @@
-### Hello 👋
+<h1 align="center">Salut 👋, je suis Charles</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesmassuard" alt="charlesmassuard" /></a> </p>
 
-<!--header-->
-<table>
-  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
-  <tr><th colspan="2"><h3>📌 Starred topics</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>This plugin displays <a href="https://github.com/stars?filter=topics">starred topics</a>.</p>
-<p>Check out <a href="https://github.com/topics">GitHub topics</a> to search interesting topics.</p>
-</td></tr>
-  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
-All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
-</td></tr>
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/markdown/README.md"><code>📒 Markdown template</code></a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code></td>
-  </tr>
-  <tr>
-    <td><i>No tokens are required for this plugin</i></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>With icons</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img></details>
-      <details open><summary>With labels</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## ➡️ Available options
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<!--options-->
-<table>
-  <tr>
-    <td align="center" nowrap="nowrap">Option</i></td><td align="center" nowrap="nowrap">Description</td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_topics</code></h4></td>
-    <td rowspan="2"><p>Enable topics plugin</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap">🌐 Web instances must configure <code>settings.json</code>:
-<ul>
-<li><i>metrics.run.puppeteer.scrapping</i></li>
-</ul>
-<b>type:</b> <code>boolean</code>
-<br>
-<b>default:</b> no<br></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_topics_mode</code></h4></td>
-    <td rowspan="2"><p>Display mode</p>
-<ul>
-<li><code>labels</code>: display labels</li>
-<li><code>icons</code>: display icons <em>(topics without icons will not be displayed)</em></li>
-<li><code>starred</code>: alias for <code>labels</code></li>
-<li><code>mastered</code>: alias for <code>icons</code></li>
-</ul>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>string</code>
-<br>
-<b>default:</b> starred<br>
-<b>allowed values:</b><ul><li>labels</li><li>icons</li><li>starred</li><li>mastered</li></ul></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_topics_sort</code></h4></td>
-    <td rowspan="2"><p>Sorting method</p>
-<ul>
-<li><code>stars</code>: sort by most stars</li>
-<li><code>activity</code>: sort by recent activity</li>
-<li><code>starred</code>: sort by starred date</li>
-<li><code>random</code>: sort randomly</li>
-</ul>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>string</code>
-<br>
-<b>default:</b> stars<br>
-<b>allowed values:</b><ul><li>stars</li><li>activity</li><li>starred</li><li>random</li></ul></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_topics_limit</code></h4></td>
-    <td rowspan="2"><p>Display limit</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>number</code>
-<i>(0 ≤
-𝑥
-≤ 20)</i>
-<br>
-<b>zero behaviour:</b> disable</br>
-<b>default:</b> 15<br></td>
-  </tr>
-</table>
-<!--/options-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesmassuard&show_icons=true&locale=en&layout=compact" alt="charlesmassuard" /></p>
 
-## ℹ️ Examples workflows
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesmassuard&show_icons=true&locale=en" alt="charlesmassuard" /></p>
 
-<!--examples-->
-```yaml
-name: Labels
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.topics.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_topics: yes
-  plugin_topics_limit: 12
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesmassuard&" alt="charlesmassuard" /></p>
 
-```
-```yaml
-name: Icons
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.topics.icons.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_topics: yes
-  plugin_topics_limit: 0
-  plugin_topics_mode: icons
-
-```
-<!--/examples-->
