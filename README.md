@@ -67,6 +67,8 @@
   ***
 
   <a href="https://www.linkedin.com/in/charles-massuard" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  title="My linkedin"/></a>
+  <img width="12" />
+  <a href="https://charlesmassuard.netlify.app" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="40" alt="linkedin logo"  title="My website"/></a>
 </div>
 
 ###
